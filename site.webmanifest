@@ -1,0 +1,17 @@
+{
+  "name": "Vista Cleaning Operations",
+  "short_name": "Vista Cleaning",
+  "description": "Professional cleaning services for homes, apartments, rentals and vacant properties throughout Washington, D.C. and the surrounding Capital Region.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B1B2B",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
